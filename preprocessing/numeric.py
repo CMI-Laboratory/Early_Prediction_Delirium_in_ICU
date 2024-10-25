@@ -1,7 +1,7 @@
 import pandas as pd
 
 import module.utils as cutils
-from module.db_utils import create_df_from_ppg2
+from ./db_utils_ import create_df_from_ppg2
 
 
 class VitalsPreprocessing:
